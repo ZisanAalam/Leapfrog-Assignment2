@@ -1,3 +1,3 @@
-# Leapfrog-Assignment2
+# Leapfrog-Assignments
 
-## [Live Demo](https://zisanaalam.github.io/Leapfrog-Assignment/)
+## [Live Demo](https://zisanaalam.github.io/Leapfrog-Assignments/  )
